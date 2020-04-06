@@ -1,1 +1,4 @@
 練習練習
+
+Reactリモートリポジトリのpullリクエスト練習
+C:\Users\taiki.N\Documents\GitHub
