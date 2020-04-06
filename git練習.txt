@@ -3,9 +3,6 @@
 Reactリモートリポジトリのpullリクエスト練習
 C:\Users\taiki.N\Documents\GitHub
 
-<<<<<<< HEAD
-救えリーンの表示を直したーい
-=======
 mergeの練習
->>>>>>> 6f2778340d6cdc24e418258221d5ce8044d19ac7
 
+スクリーン表示を直したい
